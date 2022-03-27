@@ -82,7 +82,7 @@
     "magic-string": "^0.25.7",
     "merge-source-map": "^1.1.0",
     "mime-types": "^2.1.27",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "open": "^7.0.3",
     "ora": "^4.0.4",
     "postcss": "^7.0.28",
